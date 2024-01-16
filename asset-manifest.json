@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LKE-shop/static/css/main.3d8e075a.css",
-    "main.js": "/LKE-shop/static/js/main.83d38ab7.js",
+    "main.js": "/LKE-shop/static/js/main.0e84fb8f.js",
     "index.html": "/LKE-shop/index.html",
     "main.3d8e075a.css.map": "/LKE-shop/static/css/main.3d8e075a.css.map",
-    "main.83d38ab7.js.map": "/LKE-shop/static/js/main.83d38ab7.js.map"
+    "main.0e84fb8f.js.map": "/LKE-shop/static/js/main.0e84fb8f.js.map"
   },
   "entrypoints": [
     "static/css/main.3d8e075a.css",
-    "static/js/main.83d38ab7.js"
+    "static/js/main.0e84fb8f.js"
   ]
 }
